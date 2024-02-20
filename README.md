@@ -6,7 +6,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repository contains the source for [The Starknet Book](https://book.starknet.io).
+This repository contaixjxjcjc the source for [The Starknet Book](https://book.starknet.io).
 
 ## Contribution
 
